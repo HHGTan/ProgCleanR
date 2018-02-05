@@ -4,8 +4,6 @@ library(readxl);library(writexl)
 # CLEAN MRI PARTICIPICIPITATION 
 
 # Description
-# This is a test and I have no idea
-print("Test")
 
 # An extra push
 print("push")
