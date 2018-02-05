@@ -7,6 +7,8 @@ library(readxl);library(writexl)
 # This script finds irregularities in the participation of 
 # MRI study participants
 
+print("My name is H")
+
 # Progeny Query:  (Found at path: Netherlands/MRI_Deelname)
 # 'Deelname MRI 3T' equals "Ja"                 OR
 # '015 MRI 3T' equals "Y"                       OR
