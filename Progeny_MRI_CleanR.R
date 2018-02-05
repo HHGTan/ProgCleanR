@@ -4,10 +4,8 @@ library(readxl);library(writexl)
 # CLEAN MRI PARTICIPICIPITATION 
 
 # Description
-
-# An extra push
-print("push")
-print("pull")
+# This script finds irregularities in the participation of 
+# MRI study participants
 
 # Progeny Query:  (Found at path: Netherlands/MRI_Deelname)
 # 'Deelname MRI 3T' equals "Ja"                 OR
